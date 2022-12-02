@@ -1,0 +1,44 @@
+package unconditionalLoops;
+
+import java.util.Scanner;
+
+public class UnconditionalLoopex9 
+{
+
+	public static void main(String[] args) 
+	{
+		/*Input the weight of five students in Kilograms and Grams and output:
+			(a) Total Weight of the Students in Kilogram and Grams
+			(b) The average Weight of the Students in Kilograms and Grams*/
+		
+		Scanner key = new Scanner(System.in);
+		
+		int avgKg=0, avgG =0, totalKg =0, totalG =0;
+		
+		for(int i = 1; i<=5; i++)
+		double average =0, total =0, weight=0, weight1 =0,weight2 =0,weight3 =0,weight4 =0,weight5 =0;
+		System.out.print("Enter student 1 weight in kgs & grams: ");
+		weight = key.nextInt();
+		System.out.print("Enter student 2 weight in kgs & grams: ");
+		weight = key.nextInt();
+		System.out.print("Enter student 3 weight in kgs & grams: ");
+		weight = key.nextInt();
+		System.out.print("Enter student 4 weight in kgs & grams: ");
+		weight = key.nextInt();
+		System.out.print("Enter student 5 weight in kgs & grams: ");
+		weight = key.nextInt();
+		
+		System.out.print("The total weight in kgs and grams = "+total);
+		weight1 + weight2 + weight3 + weight4 + weight5 = total
+		System.out.print("The average weight in kgs and grams = "+average);
+		
+		
+		{
+			
+		}
+		
+		
+		
+	}
+
+}

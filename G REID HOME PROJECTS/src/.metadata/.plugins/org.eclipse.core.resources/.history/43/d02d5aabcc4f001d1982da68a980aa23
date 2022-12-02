@@ -1,0 +1,21 @@
+package conditionalLoops;
+
+import java.util.Scanner;
+
+public class ConditionalLoops1 
+{
+
+	public static void main(String[] args) 
+	{
+		/*Input an unknown number of integers.  Output the total and the average.  
+		Terminate the series of numbers with -999 (this is not to be included in the 
+		calculations)*/
+		
+		Scanner key = new Scanner(System.in);
+		
+		
+		
+		
+	}
+
+}
